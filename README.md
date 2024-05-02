@@ -14,9 +14,7 @@ Step 2: Clone the Repository
 
 Clone this repository to your local machine using the following command:
 
-bash
-
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/karodgers/golang-sudoku-solver)
 
 Step 3: Navigate to the directory
 
